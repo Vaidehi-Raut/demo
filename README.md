@@ -1,2 +1,2 @@
 # demo
-A demo for how Git &amp; Github works..
+A demo for how Git &amp; Github works..!
